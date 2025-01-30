@@ -11,6 +11,14 @@
   ],
   "activationEvents": [],
   "main": "./out/extension.js",
+  "author": {
+    "name": "Francisco Ossian",
+    "url": "https://github.com/FranciscoOssian"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FranciscoOssian/DeepChat"
+  },
   "contributes": {
     "commands": [
       {
